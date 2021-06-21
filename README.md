@@ -1,6 +1,6 @@
 # ligy-keralatourism-assignment1
 ![alappuzha](https://user-images.githubusercontent.com/86006028/122716117-7f1da800-d287-11eb-97b4-4fc515a848cc.jpg)
-![aza1](https://user-imag
+![aza1](https://user-images.githubusercontent.com/86006028/122719605-0d942880-d28c-11eb-9fc5-687fe07ca451.jpg)
 ![krbg1](https://user-images.githubusercontent.com/86006028/122717440-3bc43900-d289-11eb-84c0-4c2e78ba5a8b.jpg)
 ![krbg2](https://user-images.githubusercontent.com/86006028/122717448-3ebf2980-d289-11eb-820e-3860d0ff0073.jpg)
 ![ksd1](https://user-images.githubusercontent.com/86006028/122717477-48e12800-d289-11eb-8d51-cd7a972fb7f4.jpg)
